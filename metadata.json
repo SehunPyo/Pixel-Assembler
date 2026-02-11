@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Assembler",
+  "description": "A precision pixel art composition tool for layering, positioning, and merging pixel-perfect assets with 1px accuracy and layer management.",
+  "requestFramePermissions": []
+}
